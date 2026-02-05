@@ -1,0 +1,1 @@
+this repo has react native cicd commands and aws automated pipeline
